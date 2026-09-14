@@ -1,97 +1,152 @@
-FerreteriaDontonoGeneral
+# INASsoftware_1°C_2026_Jordi_Steven_Menendez_Orellana
+
+Repo creado para actividad con la profesora **Reina Cruz** — Instituto Nacional de Apopa (INAS).
+
+---
+
+# 👋 Hi there, I'm Jordi Steven Menéndez Orellana
+
 <div align="center">
 
-  <img src="logo_fdt.svg" alt="Ferretería Don Toño Logo" width="280"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jordi%20Steven&fontSize=50&animation=fadeIn)
 
-  # 🛠️ Ferretería Don Toño — E-Commerce & PWA
+<img src="yo.jpg" alt="Jordi Steven" width="150" style="border-radius:50%"/>
 
-  **Plataforma web integral de comercio electrónico, PWA, renderizado 3D y asistencia con IA para el sector ferretero en El Salvador.**
+### 🚀 Software Developer | Full-Stack & 2D Game Dev
 
-  [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-PythonAnywhere-brightgreen?style=for-the-badge&logo=pythonanywhere&logoColor=white)](https://ferrolibreriateriadonantonio.pythonanywhere.com/)
-  [![Django](https://img.shields.io/badge/Django-5.2-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-  [![Next.js](https://img.shields.io/badge/Next.js-App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![Groq AI](https://img.shields.io/badge/Groq-AI_LLM-orange?style=for-the-badge&logo=openai&logoColor=white)](https://groq.com/)
-  [![Estado](https://img.shields.io/badge/Estado-Producci%C3%B3n-success?style=for-the-badge)]()
+📍 **El Salvador** | 💻 **Nexus** (Instituto Nacional de Apopa)
 
 </div>
 
 ---
 
-### 🌐 Demo en Vivo
+## 🧰 Tech Stack & Tools
 
-Puedes acceder a la plataforma desplegada en producción a través del siguiente enlace:  
-👉 **[https://ferrolibreriateriadonantonio.pythonanywhere.com/](https://ferrolibreriateriadonantonio.pythonanywhere.com/)**
+### Languages & Frontend
 
----
-
-### 🧰 Tech Stack & Herramientas
-
-#### **Backend & Base de Datos**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### **Frontend & Renderizado 3D**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Model Viewer](https://img.shields.io/badge/3D_Model_Viewer-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-#### **Inteligencia Artificial & Integraciones PWA**
-![Groq API](https://img.shields.io/badge/Groq_API-F05032?style=for-the-badge&logo=openai&logoColor=white)
+### Frameworks & Databases
+
+![Django](https://img.shields.io/badge/Django-5.2-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### AI & Web Integrations
+
+![Groq API](https://img.shields.io/badge/Groq_AI-F05032?style=for-the-badge&logo=openai&logoColor=white)
 ![Web Push](https://img.shields.io/badge/Web_Push_VAPID-380556?style=for-the-badge&logo=pwa&logoColor=white)
-![Service Workers](https://img.shields.io/badge/PWA_Service_Workers-5B067D?style=for-the-badge&logo=pwa&logoColor=white)
+
+### Game Dev & Design
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-### 🚀 Funcionalidades Destacadas
+## 📌 About Me
 
-| Módulo / Característica | Descripción | Stack Tecnológico |
+- 🔭 Desarrollando aplicaciones web, Progressive Web Apps (PWAs) y videojuegos 2D.
+- ⚙️ Interesado en **arquitectura de hardware** (Snapdragon, Dimensity, NVIDIA GPUs, LPDDR5X, UFS 4.0).
+- 🎨 Apasionado por la tecnología gráfica: rendering, upscaling (DLSS, FSR) y Ray Tracing.
+- 📈 Entusiasta del análisis del mercado de semiconductores y paper trading.
+- ⚽ Fan del **FC Barcelona** y gamer (*Honkai: Star Rail*, *Genshin Impact*, *Brawl Stars*).
+
+---
+
+## 🚀 Proyecto Destacado: Ferretería Don Toño — E-Commerce PWA & AI Platform 🛠️
+
+<div align="center">
+
+### Plataforma Web E-Commerce, PWA, Visor 3D y Asistente con IA
+
+📍 **El Salvador** | 💻 **Vertex Lab** (Instituto Nacional de Apopa - INAS)
+
+[![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-PythonAnywhere-brightgreen?style=for-the-badge&logo=pythonanywhere&logoColor=white)](https://ferrolibreriateriadonantonio.pythonanywhere.com/)
+[![Django](https://img.shields.io/badge/Django-5.2-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Estado](https://img.shields.io/badge/Estado-Producci%C3%B3n-success?style=for-the-badge)]()
+
+</div>
+
+### 📌 Sobre el Proyecto
+
+- 🌐 **E-Commerce local adaptado a El Salvador:** sistema integral para agilizar la venta e inventariado de herramientas y productos ferreteros.
+- 🤖 **Agente dual inteligente "Toñito IA":** respuestas en tiempo real para clientes con consulta de stock e interacción por comandos avanzados en el panel de administración.
+- 🎨 **Simulador y Calculadora de Pinturas:** cálculo automático de rendimiento por m² para 5 presentaciones y control de inventario por color y tamaño.
+- 📦 **Catálogo 3D interactivo (`/estantes/`):** modelos `.glb` con soporte gestual 360°, selector de cantidades y carrito en tiempo real.
+- 🧾 **Cumplimiento fiscal salvadoreño:** Factura de Consumidor Final (DUI/NIT) y Crédito Fiscal (CCF con validación obligatoria de NIT + NRC).
+
+### 🚀 Módulos y Características
+
+| Módulo / Característica | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 Agentes Inteligentes "Toñito IA"** | **Clientes (`gpt-oss-20b`):** Asistente conversacional inyectado con inventario en tiempo real, búsqueda de equivalencias y redirección interactiva `[BUSCAR_ESTANTES]`.<br>**Admin (`gpt-oss-120b`):** Agente de gestión masiva de stock, creación de ítems, reportes fiscales y comandos por voz/chat. | `Groq LLM API` `Python` `Django REST` |
-| **🎨 Simulador & Calculadora de Pinturas (`/pinturas/`)** | Estimación automática de rendimiento por $m^2$ para 5 presentaciones (1L, 1/4 Galón, 1/2 Galón, Galón, Cubeta 5 Gal). Control multidimensional de inventario por **Tamaño + Color** (27 swatches). | `JavaScript` `Django ORM` `Tailwind` |
-| **📦 Catálogo 3D e Interactivo (`/estantes/`)** | Modelos `.glb` interactivos con 360°, soporte táctil/gestual, pestañas de filtrado dinámico (*Promociones*, *Nuevos*, *Más Vendidos*) y carrito synchronizado. | `Next.js App Router` `<model-viewer>` |
-| **🧾 Checkout & Cumplimiento Fiscal SV** | Procesamiento de órdenes adaptado a la normativa fiscal de El Salvador: **Factura de Consumidor Final** (NIT o DUI) y **Comprobante de Crédito Fiscal (CCF)** (valida obligatoriamente NIT + NRC). Generación de JSON tipo DTE. | `Django Forms` `JSONField` |
-| **🔔 Push Notifications & Reportes Excel** | Sistema de alertas VAPID en tiempo real para productos agotados dirigidas al staff. Carga masiva de catálogo desde plantillas `.xlsx` e historial de ventas desglosado. | `pywebpush` `VAPID` `openpyxl` |
-
----
+| **🤖 Agentes Inteligentes "Toñito IA"** | **Clientes:** búsqueda conversacional, productos equivalentes e interacción `[BUSCAR_ESTANTES]`. **Admin:** gestión masiva de stock, creación de productos, reportes contables y acciones rápidas. | `Groq API` `Django REST` `Python` |
+| **🎨 Calculadora & Simulador de Pinturas** | Estimación por área (m²), 27 swatches de color y stock multidimensional por **Tamaño + Color**. | `JavaScript` `Django ORM` `Tailwind` |
+| **📦 Catálogo 3D (`/estantes/`)** | Modelos 3D con `<model-viewer>`, pestañas dinámicas (*Promociones*, *Nuevos*, *Más Vendidos*) y sincronización con el carrito. | `Next.js App Router` `Three.js` |
+| **🧾 Checkout & Módulo Fiscal SV** | Facturación según normativa de El Salvador: Factura (NIT/DUI) y Crédito Fiscal (NIT + NRC). Generación de DTE en JSON. | `Django Forms` `JSONField` |
+| **🔔 Push Notifications & Excel Reports** | Alertas VAPID en tiempo real por stock agotado y reportes de ventas anuales/mensuales en Excel. | `pywebpush` `VAPID` `openpyxl` |
 
 ### 📁 Estructura del Proyecto
 
 ```text
-FerreteriaDontonoGeneral/
-├── logo_fdt.svg               # Logos vectoriales oficiales del proyecto
-├── Logo_FDT.png               # Isotipo en formato PNG
-├── sembrar_pinturas.py        # Script de inicialización del inventario de pinturas
-├── manage.py                  # CLI de gestión de Django
-├── Ferreteria/                # Configuración global del proyecto Django
-│   ├── settings.py            # Variables de entorno y configuración
-│   ├── urls.py                # Enrutador principal de endpoints
-│   └── wsgi.py                # Configuración del servidor de producción
-└── tienda/                    # Aplicación core de la plataforma
-    ├── models.py              # Modelos ORM (Producto, Pedido, ColorPintura, Notificaciones)
-    ├── views.py               # Vistas, lógica de checkout y APIs
-    ├── reportes_ventas.py     # Motor de generación de libros contables Excel
-    ├── signals.py             # Disparadores automáticos de stock y alertas
-    ├── static/                # CSS custom admin, JS vanilla, iconos y assets
-    └── templates/             # Plantillas HTML (index, pinturas, checkout, admin custom)
+Ferreteria/                        # Raíz del proyecto (Django) — /home/.../Ferreteria en PythonAnywhere
+├── manage.py                      # CLI de administración de Django
+├── wsgi.py                        # WSGI de producción (PythonAnywhere)
+├── sembrar_pinturas.py            # Script de siembra del catálogo de pinturas
+├── crear_productos.py             # Scripts de carga de datos iniciales
+├── crear_productos_3d.py
+├── asignar_categorias.py
+├── asignar_categorias_v2.py
+├── ferreteria/                    # Configuración principal del proyecto
+│   ├── settings.py                # Variables de entorno y ajustes generales
+│   ├── urls.py                    # Enrutador general de rutas
+│   └── wsgi.py                    # Entry point WSGI
+├── tienda/                        # App principal del sistema
+│   ├── models.py                  # Modelos de BD (Productos, Pinturas, Notificaciones, Pedidos)
+│   ├── views.py                   # Lógica de endpoints, Checkout y APIs REST
+│   ├── admin.py                   # Configuración del panel de administración
+│   ├── urls.py                    # Rutas de la app tienda
+│   ├── signals.py                 # Disparadores para stock y notificaciones PWA
+│   ├── notificaciones.py          # Lógica de notificaciones push y stock agotado
+│   ├── reportes_ventas.py         # Generador de reportes contables en Excel
+│   ├── migrations/                # Migraciones de la base de datos
+│   ├── templates/tienda/          # Plantillas HTML (index, pinturas, estantes, admin custom)
+│   │   ├── index.html
+│   │   ├── pinturas.html
+│   │   ├── estantes.html
+│   │   ├── agregar_producto.html
+│   │   └── _tonito_widget.html
+│   ├── static/                    # PWA (sw.js, manifest, icons) + imágenes de productos
+│   └── estantes_assets/           # Build estático Next.js para /estantes/ — _next/, images/, seo/
+├── templates/admin/               # Overrides del admin de Django (tema amarillo/dorado)
+└── static/                        # Assets globales + admin_custom (CSS del tema)
 ```
 
----
-
-### 🚀 Instalación y Configuración Local
+### ⚙️ Instalación y Configuración Local
 
 1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/JordiSteven/FerreteriaDontonoGeneral.git
-   cd FerreteriaDontonoGeneral
-   ```
 
-2. **Crear y activar entorno virtual:**
-   ```bash
+```bash
+   git clone https://github.com/JordiSteven/INASsoftware_1C_2026_Jordi_Steven_Menendez_Orellana.git
+   cd INASsoftware_1C_2026_Jordi_Steven_Menendez_Orellana/Ferreteria
+```
+
+2. **Crear y activar el entorno virtual:**
+
+```bash
    # Windows
    python -m venv venv
    venv\Scripts\activate
@@ -99,45 +154,57 @@ FerreteriaDontonoGeneral/
    # Linux / macOS
    python3 -m venv venv
    source venv/bin/activate
-   ```
+```
 
-3. **Instalar dependencias de Python:**
-   ```bash
+3. **Instalar dependencias:**
+
+```bash
    pip install -r requirements.txt
-   ```
+```
 
-4. **Configurar Variables de Entorno (`.env`):**
-   ```env
+4. **Configurar variables de entorno (`.env`):**
+
+```env
    SECRET_KEY=tu_clave_secreta_django
    GROQ_API_KEY=tu_api_key_groq_clientes
    GROQ_API_KEY_ADMIN=tu_api_key_groq_admin
    WEBPUSH_VAPID_PUBLIC_KEY=tu_clave_publica_vapid
    WEBPUSH_VAPID_PRIVATE_KEY=ruta_o_clave_privada_pem
    WEBPUSH_VAPID_ADMIN_EMAIL=tu_correo_admin@dominio.com
-   ```
+```
 
-5. **Migraciones e Inserción de Datos:**
-   ```bash
+5. **Ejecutar migraciones y datos iniciales:**
+
+```bash
    python manage.py migrate
    python manage.py shell < sembrar_pinturas.py
    python manage.py createsuperuser
-   ```
+```
 
-6. **Ejecutar el servidor de desarrollo:**
-   ```bash
+6. **Iniciar servidor local:**
+
+```bash
    python manage.py runserver
-   ```
-   Abre [http://127.0.0.1:8000/](http://127.0.0.1:8000/) en tu navegador.
+```
+
+Accede a [http://127.0.0.1:8000/](http://127.0.0.1:8000/) en tu navegador.
 
 ---
 
-### 👥 Equipo de Desarrollo — Vertex Lab
+## 🚀 Otros Proyectos
 
-<div align="center">
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **Ferretería Don Toño** | PWA interactiva con catálogo de productos 3D y asistente virtual con IA. | `Django` `Three.js` `Groq API` `Tailwind` |
+| **Innovastay** | Plataforma completa de reservas y gestión hotelera. | `Python` `Django` `SQLite` `JavaScript` |
+| **Local Inventory Control** | Solución de gestión de pedidos e inventario para comercios locales. | `Python` `Algoritmos de lógica` |
+| **Unity 2D Games** | Plataformas 2D con físicas personalizadas y assets pixel art. | `C#` `Unity` `Aseprite` `GIMP` |
 
-Este proyecto fue ideado, diseñado y desarrollado por el equipo de **Vertex Lab**:
+---
 
-| Desarrollador / Colaborador | Rol / Área de Desarrollo |
+## 👥 Equipo de Desarrollo — Vertex Lab
+
+| Integrante | Rol / Área de Contribución |
 | :--- | :--- |
 | **Jordi Steven Menéndez Orellana** | Full-Stack Developer & Arquitectura de Software |
 | **Anthony Alexander** | Software Developer |
@@ -147,18 +214,35 @@ Este proyecto fue ideado, diseñado y desarrollado por el equipo de **Vertex Lab
 | **Jason** | Software Developer |
 | **Marcos Estrada** | Software Developer |
 
-</div>
-
 ---
 
-### 📄 Licencia
+## 📊 GitHub Stats
 
-Este proyecto está distribuido bajo la licencia **MIT**. Consulta el archivo `LICENSE` para obtener más información.
+<div align="center">
+
+<a href="https://github.com/JordiSteven">
+<img src="https://github-readme-stats.vercel.app/api?username=JordiSteven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jordi's GitHub Stats" width="48%" />
+</a>
+<a href="https://github.com/JordiSteven">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiSteven&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/JordiSteven">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JordiSteven&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-***"Innovación tecnológica aplicada al comercio local salvadoreño."*** 🇸🇻💡
+🌐 **[Visitar Proyecto en Vivo](https://ferrolibreriateriadonantonio.pythonanywhere.com/)**
+
+*"Innovación tecnológica aplicada al comercio local salvadoreño."* 🇸🇻💡
+
+*"Code, Hardware & Continuous Growth."* 💡
 
 </div>
