@@ -232,4 +232,7 @@ Accede a [http://127.0.0.1:8000/](http://127.0.0.1:8000/) en tu navegador.
 
 *"Code, Hardware & Continuous Growth."* 💡
 
+
+*"Code, Hardware & Continuous Growth."* 💡
+
 </div>
