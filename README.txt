@@ -1,45 +1,65 @@
 <div align="center">
-<img src="logo_fdt.svg" alt="Ferretería Don Toño Logo" width="280"/>
-🛠️ Ferretería Don Toño — E-Commerce & PWA
-Plataforma web integral de comercio electrónico, PWA, renderizado 3D y asistencia con IA para el sector ferretero en El Salvador.
-![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-PythonAnywhere-brightgreen?style=for-the-badge&logo=pythonanywhere&logoColor=white)
-![Django](https://img.shields.io/badge/Django-5.2-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Groq AI](https://img.shields.io/badge/Groq-AI_LLM-orange?style=for-the-badge&logo=openai&logoColor=white)
-[![Estado](https://img.shields.io/badge/Estado-Producci%C3%B3n-success?style=for-the-badge)]()
+
+  <img src="logo_fdt.svg" alt="Ferretería Don Toño Logo" width="280"/>
+
+  # 🛠️ Ferretería Don Toño — E-Commerce & PWA
+
+  **Plataforma web integral de comercio electrónico, PWA, renderizado 3D y asistencia con IA para el sector ferretero en El Salvador.**
+
+  [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-PythonAnywhere-brightgreen?style=for-the-badge&logo=pythonanywhere&logoColor=white)](https://ferrolibreriateriadonantonio.pythonanywhere.com/)
+  [![Django](https://img.shields.io/badge/Django-5.2-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+  [![Next.js](https://img.shields.io/badge/Next.js-App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![Groq AI](https://img.shields.io/badge/Groq-AI_LLM-orange?style=for-the-badge&logo=openai&logoColor=white)](https://groq.com/)
+  [![Estado](https://img.shields.io/badge/Estado-Producci%C3%B3n-success?style=for-the-badge)]()
+
 </div>
+
 ---
-🌐 Demo en Vivo
+
+### 🌐 Demo en Vivo
+
 Puedes acceder a la plataforma desplegada en producción a través del siguiente enlace:  
-👉 https://ferrolibreriateriadonantonio.pythonanywhere.com/
+👉 **[https://ferrolibreriateriadonantonio.pythonanywhere.com/](https://ferrolibreriateriadonantonio.pythonanywhere.com/)**
+
 ---
-🧰 Tech Stack & Herramientas
-Backend & Base de Datos
+
+### 🧰 Tech Stack & Herramientas
+
+#### **Backend & Base de Datos**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-Frontend & Renderizado 3D
+
+#### **Frontend & Renderizado 3D**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Model Viewer](https://img.shields.io/badge/3D_Model_Viewer-000000?style=for-the-badge&logo=three.js&logoColor=white)
-Inteligencia Artificial & Integraciones PWA
+
+#### **Inteligencia Artificial & Integraciones PWA**
 ![Groq API](https://img.shields.io/badge/Groq_API-F05032?style=for-the-badge&logo=openai&logoColor=white)
 ![Web Push](https://img.shields.io/badge/Web_Push_VAPID-380556?style=for-the-badge&logo=pwa&logoColor=white)
 ![Service Workers](https://img.shields.io/badge/PWA_Service_Workers-5B067D?style=for-the-badge&logo=pwa&logoColor=white)
+
 ---
-🚀 Funcionalidades Destacadas
-Módulo / Característica	Descripción	Stack Tecnológico
-🤖 Agentes Inteligentes "Toñito IA"	Clientes (`gpt-oss-20b`): Asistente conversacional inyectado con inventario en tiempo real, búsqueda de equivalencias y redirección interactiva `[BUSCAR_ESTANTES]`.<br>Admin (`gpt-oss-120b`): Agente de gestión masiva de stock, creación de ítems, reportes fiscales y comandos por voz/chat.	`Groq LLM API` `Python` `Django REST`
-🎨 Simulador & Calculadora de Pinturas (`/pinturas/`)	Estimación automática de rendimiento por $m^2$ para 5 presentaciones (1L, 1/4 Galón, 1/2 Galón, Galón, Cubeta 5 Gal). Control multidimensional de inventario por Tamaño + Color (27 swatches).	`JavaScript` `Django ORM` `Tailwind`
-📦 Catálogo 3D e Interactivo (`/estantes/`)	Modelos `.glb` interactivos con 360°, soporte táctil/gestual, pestañas de filtrado dinámico (Promociones, Nuevos, Más Vendidos) y carrito synchronizado.	`Next.js App Router` `<model-viewer>`
-🧾 Checkout & Cumplimiento Fiscal SV	Procesamiento de órdenes adaptado a la normativa fiscal de El Salvador: Factura de Consumidor Final (NIT o DUI) y Comprobante de Crédito Fiscal (CCF) (valida obligatoriamente NIT + NRC). Generación de JSON tipo DTE.	`Django Forms` `JSONField`
-🔔 Push Notifications & Reportes Excel	Sistema de alertas VAPID en tiempo real para productos agotados dirigidas al staff. Carga masiva de catálogo desde plantillas `.xlsx` e historial de ventas desglosado.	`pywebpush` `VAPID` `openpyxl`
+
+### 🚀 Funcionalidades Destacadas
+
+| Módulo / Característica | Descripción | Stack Tecnológico |
+| :--- | :--- | :--- |
+| **🤖 Agentes Inteligentes "Toñito IA"** | **Clientes (`gpt-oss-20b`):** Asistente conversacional inyectado con inventario en tiempo real, búsqueda de equivalencias y redirección interactiva `[BUSCAR_ESTANTES]`.<br>**Admin (`gpt-oss-120b`):** Agente de gestión masiva de stock, creación de ítems, reportes fiscales y comandos por voz/chat. | `Groq LLM API` `Python` `Django REST` |
+| **🎨 Simulador & Calculadora de Pinturas (`/pinturas/`)** | Estimación automática de rendimiento por $m^2$ para 5 presentaciones (1L, 1/4 Galón, 1/2 Galón, Galón, Cubeta 5 Gal). Control multidimensional de inventario por **Tamaño + Color** (27 swatches). | `JavaScript` `Django ORM` `Tailwind` |
+| **📦 Catálogo 3D e Interactivo (`/estantes/`)** | Modelos `.glb` interactivos con 360°, soporte táctil/gestual, pestañas de filtrado dinámico (*Promociones*, *Nuevos*, *Más Vendidos*) y carrito synchronizado. | `Next.js App Router` `<model-viewer>` |
+| **🧾 Checkout & Cumplimiento Fiscal SV** | Procesamiento de órdenes adaptado a la normativa fiscal de El Salvador: **Factura de Consumidor Final** (NIT o DUI) y **Comprobante de Crédito Fiscal (CCF)** (valida obligatoriamente NIT + NRC). Generación de JSON tipo DTE. | `Django Forms` `JSONField` |
+| **🔔 Push Notifications & Reportes Excel** | Sistema de alertas VAPID en tiempo real para productos agotados dirigidas al staff. Carga masiva de catálogo desde plantillas `.xlsx` e historial de ventas desglosado. | `pywebpush` `VAPID` `openpyxl` |
+
 ---
-📁 Estructura del Proyecto
+
+### 📁 Estructura del Proyecto
+
 ```text
 FerreteriaDontonoGeneral/
 ├── logo_fdt.svg               # Logos vectoriales oficiales del proyecto
@@ -58,15 +78,19 @@ FerreteriaDontonoGeneral/
     ├── static/                # CSS custom admin, JS vanilla, iconos y assets
     └── templates/             # Plantillas HTML (index, pinturas, checkout, admin custom)
 ```
+
 ---
-🚀 Instalación y Configuración Local
-Clonar el repositorio:
-```bash
+
+### 🚀 Instalación y Configuración Local
+
+1. **Clonar el repositorio:**
+   ```bash
    git clone https://github.com/JordiSteven/FerreteriaDontonoGeneral.git
    cd FerreteriaDontonoGeneral
    ```
-Crear y activar entorno virtual:
-```bash
+
+2. **Crear y activar entorno virtual:**
+   ```bash
    # Windows
    python -m venv venv
    venv\Scripts\activate
@@ -75,12 +99,14 @@ Crear y activar entorno virtual:
    python3 -m venv venv
    source venv/bin/activate
    ```
-Instalar dependencias de Python:
-```bash
+
+3. **Instalar dependencias de Python:**
+   ```bash
    pip install -r requirements.txt
    ```
-Configurar Variables de Entorno (`.env`):
-```env
+
+4. **Configurar Variables de Entorno (`.env`):**
+   ```env
    SECRET_KEY=tu_clave_secreta_django
    GROQ_API_KEY=tu_api_key_groq_clientes
    GROQ_API_KEY_ADMIN=tu_api_key_groq_admin
@@ -88,34 +114,50 @@ Configurar Variables de Entorno (`.env`):
    WEBPUSH_VAPID_PRIVATE_KEY=ruta_o_clave_privada_pem
    WEBPUSH_VAPID_ADMIN_EMAIL=tu_correo_admin@dominio.com
    ```
-Migraciones e Inserción de Datos:
-```bash
+
+5. **Migraciones e Inserción de Datos:**
+   ```bash
    python manage.py migrate
    python manage.py shell < sembrar_pinturas.py
    python manage.py createsuperuser
    ```
-Ejecutar el servidor de desarrollo:
-```bash
+
+6. **Ejecutar el servidor de desarrollo:**
+   ```bash
    python manage.py runserver
    ```
-Abre http://127.0.0.1:8000/ en tu navegador.
+   Abre [http://127.0.0.1:8000/](http://127.0.0.1:8000/) en tu navegador.
+
 ---
-👥 Equipo de Desarrollo — Vertex Lab
+
+### 👥 Equipo de Desarrollo — Vertex Lab
+
 <div align="center">
-Este proyecto fue ideado, diseñado y desarrollado por el equipo de Vertex Lab:
-Desarrollador / Colaborador	Rol / Área de Desarrollo
-Jordi Steven Menéndez Orellana	Full-Stack Developer & Arquitectura de Software
-Anthony Alexander	Software Developer
-Joan	Software Developer
-Emanuel	Software Developer
-Alexandra Gallegos	Software Developer
-Jason	Software Developer
-Marcos Estrada	Software Developer
+
+Este proyecto fue ideado, diseñado y desarrollado por el equipo de **Vertex Lab**:
+
+| Desarrollador / Colaborador | Rol / Área de Desarrollo |
+| :--- | :--- |
+| **Jordi Steven Menéndez Orellana** | Full-Stack Developer & Arquitectura de Software |
+| **Anthony Alexander** | Software Developer |
+| **Joan** | Software Developer |
+| **Emanuel** | Software Developer |
+| **Alexandra Gallegos** | Software Developer |
+| **Jason** | Software Developer |
+| **Marcos Estrada** | Software Developer |
+
 </div>
+
 ---
-📄 Licencia
-Este proyecto está distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
+
+### 📄 Licencia
+
+Este proyecto está distribuido bajo la licencia **MIT**. Consulta el archivo `LICENSE` para obtener más información.
+
 ---
+
 <div align="center">
-"Innovación tecnológica aplicada al comercio local salvadoreño." 🇸🇻💡
+
+***"Innovación tecnológica aplicada al comercio local salvadoreño."*** 🇸🇻💡
+
 </div>
