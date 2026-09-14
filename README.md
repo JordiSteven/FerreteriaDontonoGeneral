@@ -62,22 +62,37 @@ Puedes acceder a la plataforma desplegada en producción a través del siguiente
 ### 📁 Estructura del Proyecto
 
 ```text
-FerreteriaDontonoGeneral/
-├── logo_fdt.svg               # Logos vectoriales oficiales del proyecto
-├── Logo_FDT.png               # Isotipo en formato PNG
-├── sembrar_pinturas.py        # Script de inicialización del inventario de pinturas
-├── manage.py                  # CLI de gestión de Django
-├── Ferreteria/                # Configuración global del proyecto Django
-│   ├── settings.py            # Variables de entorno y configuración
-│   ├── urls.py                # Enrutador principal de endpoints
-│   └── wsgi.py                # Configuración del servidor de producción
-└── tienda/                    # Aplicación core de la plataforma
-    ├── models.py              # Modelos ORM (Producto, Pedido, ColorPintura, Notificaciones)
-    ├── views.py               # Vistas, lógica de checkout y APIs
-    ├── reportes_ventas.py     # Motor de generación de libros contables Excel
-    ├── signals.py             # Disparadores automáticos de stock y alertas
-    ├── static/                # CSS custom admin, JS vanilla, iconos y assets
-    └── templates/             # Plantillas HTML (index, pinturas, checkout, admin custom)
+Ferreteria/                        # Raíz del proyecto (Django) — /home/.../Ferreteria en PythonAnywhere
+├── manage.py                      # CLI de administración de Django
+├── wsgi.py                        # WSGI de producción (PythonAnywhere)
+├── sembrar_pinturas.py            # Script de siembra del catálogo de pinturas
+├── crear_productos.py             # Scripts de carga de datos iniciales
+├── crear_productos_3d.py
+├── asignar_categorias.py
+├── asignar_categorias_v2.py
+├── ferreteria/                    # Configuración principal del proyecto
+│   ├── settings.py                # Variables de entorno y ajustes generales
+│   ├── urls.py                    # Enrutador general de rutas
+│   └── wsgi.py                    # Entry point WSGI
+├── tienda/                        # App principal del sistema
+│   ├── models.py                  # Modelos de BD (Productos, Pinturas, Notificaciones, Pedidos)
+│   ├── views.py                   # Lógica de endpoints, Checkout y APIs REST
+│   ├── admin.py                   # Configuración del panel de administración
+│   ├── urls.py                    # Rutas de la app tienda
+│   ├── signals.py                 # Disparadores para stock y notificaciones PWA
+│   ├── notificaciones.py          # Lógica de notificaciones push y stock agotado
+│   ├── reportes_ventas.py         # Generador de reportes contables en Excel
+│   ├── migrations/                # Migraciones de la base de datos
+│   ├── templates/tienda/          # Plantillas HTML (index, pinturas, estantes, admin custom)
+│   │   ├── index.html
+│   │   ├── pinturas.html
+│   │   ├── estantes.html
+│   │   ├── agregar_producto.html
+│   │   └── _tonito_widget.html
+│   ├── static/                    # PWA (sw.js, manifest, icons) + imágenes de productos
+│   └── estantes_assets/           # Build estático Next.js para /estantes/ — _next/, images/, seo/
+├── templates/admin/               # Overrides del admin de Django (tema amarillo/dorado)
+└── static/                        # Assets globales + admin_custom (CSS del tema)
 ```
 
 ---
