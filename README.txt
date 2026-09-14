@@ -13,6 +13,7 @@ Repo creado para actividad con la profesora **Reina Cruz** — Instituto Naciona
 <img src="yo.jpg" alt="Jordi Steven" width="150" style="border-radius:50%"/>
 
 ### 🚀 Software Developer | Full-Stack & 2D Game Dev
+
 📍 **El Salvador** | 💻 **Vertex Lab / Nexus** (Instituto Nacional de Apopa)
 
 </div>
@@ -22,6 +23,7 @@ Repo creado para actividad con la profesora **Reina Cruz** — Instituto Naciona
 ## 🧰 Tech Stack & Tools
 
 ### Languages & Frontend
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,19 +33,23 @@ Repo creado para actividad con la profesora **Reina Cruz** — Instituto Naciona
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Frameworks & Databases
+
 ![Django](https://img.shields.io/badge/Django-5.2-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### AI & Web Integrations
+
 ![Groq API](https://img.shields.io/badge/Groq_AI-F05032?style=for-the-badge&logo=openai&logoColor=white)
 ![Web Push](https://img.shields.io/badge/Web_Push_VAPID-380556?style=for-the-badge&logo=pwa&logoColor=white)
 
 ### Game Dev & Design
+
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -67,6 +73,7 @@ Repo creado para actividad con la profesora **Reina Cruz** — Instituto Naciona
 <img src="Logo_FDT.png" alt="Ferretería Don Toño Logo" width="220"/>
 
 ### Plataforma Web E-Commerce, PWA, Visor 3D y Asistente con IA
+
 📍 **El Salvador** | 💻 **Vertex Lab** (Instituto Nacional de Apopa - INAS)
 
 [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-PythonAnywhere-brightgreen?style=for-the-badge&logo=pythonanywhere&logoColor=white)](https://ferrolibreriateriadonantonio.pythonanywhere.com/)
@@ -118,13 +125,15 @@ FerreteriaDontonoGeneral/
 ### ⚙️ Instalación y Configuración Local
 
 1. **Clonar el repositorio:**
-   ```bash
+
+```bash
    git clone https://github.com/JordiSteven/FerreteriaDontonoGeneral.git
    cd FerreteriaDontonoGeneral
-   ```
+```
 
 2. **Crear y activar el entorno virtual:**
-   ```bash
+
+```bash
    # Windows
    python -m venv venv
    venv\Scripts\activate
@@ -132,35 +141,40 @@ FerreteriaDontonoGeneral/
    # Linux / macOS
    python3 -m venv venv
    source venv/bin/activate
-   ```
+```
 
 3. **Instalar dependencias:**
-   ```bash
+
+```bash
    pip install -r requirements.txt
-   ```
+```
 
 4. **Configurar variables de entorno (`.env`):**
-   ```env
+
+```env
    SECRET_KEY=tu_clave_secreta_django
    GROQ_API_KEY=tu_api_key_groq_clientes
    GROQ_API_KEY_ADMIN=tu_api_key_groq_admin
    WEBPUSH_VAPID_PUBLIC_KEY=tu_clave_publica_vapid
    WEBPUSH_VAPID_PRIVATE_KEY=ruta_o_clave_privada_pem
    WEBPUSH_VAPID_ADMIN_EMAIL=tu_correo_admin@dominio.com
-   ```
+```
 
 5. **Ejecutar migraciones y datos iniciales:**
-   ```bash
+
+```bash
    python manage.py migrate
    python manage.py shell < sembrar_pinturas.py
    python manage.py createsuperuser
-   ```
+```
 
 6. **Iniciar servidor local:**
-   ```bash
+
+```bash
    python manage.py runserver
-   ```
-   Accede a [http://127.0.0.1:8000/](http://127.0.0.1:8000/) en tu navegador.
+```
+
+Accede a [http://127.0.0.1:8000/](http://127.0.0.1:8000/) en tu navegador.
 
 ---
 
@@ -194,16 +208,16 @@ FerreteriaDontonoGeneral/
 <div align="center">
 
 <a href="https://github.com/JordiSteven">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordiSteven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jordi's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JordiSteven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jordi's GitHub Stats" width="48%" />
 </a>
 <a href="https://github.com/JordiSteven">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiSteven&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiSteven&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/JordiSteven">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordiSteven&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JordiSteven&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </a>
 
 </div>
