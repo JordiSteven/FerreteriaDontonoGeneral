@@ -93,21 +93,15 @@ Repo creado para actividad con la profesora **Reina Cruz** — Instituto Naciona
 
 | Módulo / Característica | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-<<<<<<< HEAD
-| **🤖 Agentes Inteligentes "Toñito IA"** | **Clientes:** búsqueda conversacional, productos equivalentes e interacción `[BUSCAR_ESTANTES]`. **Admin:** gestión masiva de stock, creación de productos, reportes contables y acciones rápidas. | `Groq API` `Django REST` `Python` |
-| **🎨 Calculadora & Simulador de Pinturas** | Estimación por área (m²), 27 swatches de color y stock multidimensional por **Tamaño + Color**. | `JavaScript` `Django ORM` `Tailwind` |
-| **📦 Catálogo 3D (`/estantes/`)** | Modelos 3D con `<model-viewer>`, pestañas dinámicas (*Promociones*, *Nuevos*, *Más Vendidos*) y sincronización con el carrito. | `Next.js App Router` `Three.js` |
-| **🧾 Checkout & Módulo Fiscal SV** | Facturación según normativa de El Salvador: Factura (NIT/DUI) y Crédito Fiscal (NIT + NRC). Generación de DTE en JSON. | `Django Forms` `JSONField` |
-| **🔔 Push Notifications & Excel Reports** | Alertas VAPID en tiempo real por stock agotado y reportes de ventas anuales/mensuales en Excel. | `pywebpush` `VAPID` `openpyxl` |
-=======
-| **🤖 Agentes Inteligentes "Toñito IA"** | **Clientes (`gpt-oss-20b`):** Asistente conversacional inyectado con inventario en tiempo real, búsqueda de equivalencias y redirección interactiva `[BUSCAR_ESTANTES]`.<br>**Admin (`gpt-oss-120b`):** Agente de gestión masiva de stock, creación de ítems, reportes fiscales y comandos por voz/chat. | `Groq LLM API` `Python` `Django REST` |
-| **🎨 Simulador & Calculadora de Pinturas (`/pinturas/`)** | Estimación automática de rendimiento por  $m^2$ para 5 presentaciones (1L, 1/4 Galón, 1/2 Galón, Galón, Cubeta 5 Gal). Control multidimensional de inventario por **Tamaño + Color** (27 swatches). | `JavaScript` `Django ORM` `Tailwind` |
-| **📦 Catálogo 3D e Interactivo (`/estantes/`)** | Modelos `.glb` interactivos con 360°, soporte táctil/gestual, pestañas de filtrado dinámico (*Promociones*, *Nuevos*, *Más Vendidos*) y carrito synchronizado. | `Next.js App Router` `<model-viewer>` |
+| Módulo / Característica | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Agentes Inteligentes "Toñito IA"** | **Clientes (`gpt-oss-20b`):** Asistente conversacional inyectado con inventario en tiempo real, búsqueda de equivalencias y redirección interactiva `[BUSCAR_ESTANTES]`.<br>**Admin (`gpt-oss-120b`):** Agente de gestión masiva de stock, creación de ítems, reportes fiscales y comandos por voz/chat. **Admin:** gestión masiva de stock, creación de productos, reportes contables y acciones rápidas. | `Groq LLM API` `Python` `Django REST` |
+| **🎨 Simulador & Calculadora de Pinturas (`/pinturas/`)** | Estimación automática de rendimiento por $m^2$ para 5 presentaciones (1L, 1/4 Galón, 1/2 Galón, Galón, Cubeta 5 Gal). Control multidimensional de inventario por **Tamaño + Color** (27 swatches). **Estimación por área, stock multidimensional y swatches de color.** | `JavaScript` `Django ORM` `Tailwind` |
+| **📦 Catálogo 3D e Interactivo (`/estantes/`)** | Modelos `.glb` interactivos con 360°, soporte táctil/gestual, pestañas de filtrado dinámico (*Promociones*, *Nuevos*, *Más Vendidos*) y carrito sincronizado. | `Next.js App Router` `<model-viewer>` |
 | **🧾 Checkout & Cumplimiento Fiscal SV** | Procesamiento de órdenes adaptado a la normativa fiscal de El Salvador: **Factura de Consumidor Final** (NIT o DUI) y **Comprobante de Crédito Fiscal (CCF)** (valida obligatoriamente NIT + NRC). Generación de JSON tipo DTE. | `Django Forms` `JSONField` |
 | **🔔 Push Notifications & Reportes Excel** | Sistema de alertas VAPID en tiempo real para productos agotados dirigidas al staff. Carga masiva de catálogo desde plantillas `.xlsx` e historial de ventas desglosado. | `pywebpush` `VAPID` `openpyxl` |
 
 ---
->>>>>>> 7aaaf37cb1f7c2476c9fa8cc9b98174d9cf34a76
 
 ### 📁 Estructura del Proyecto
 
@@ -251,8 +245,9 @@ Accede a [http://127.0.0.1:8000/](http://127.0.0.1:8000/) en tu navegador.
 
 🌐 **[Visitar Proyecto en Vivo](https://ferrolibreriateriadonantonio.pythonanywhere.com/)**
 
+🌐 **[Visitar Proyecto en Vivo](https://ferrolibreriateriadonantonio.pythonanywhere.com/)**
+
 *"Innovación tecnológica aplicada al comercio local salvadoreño."* 🇸🇻💡
 
 *"Code, Hardware & Continuous Growth."* 💡
-
 </div>
