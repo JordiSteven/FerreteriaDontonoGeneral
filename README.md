@@ -152,15 +152,15 @@ Ferreteria/                        # Raíz del proyecto (Django) — /home/.../F
 
 Este proyecto fue ideado, diseñado y desarrollado por el equipo de **Vertex Lab**:
 
-| Desarrollador / Colaborador | Rol / Área de Desarrollo |
-| :--- | :--- |
-| **Jordi Steven Menéndez Orellana** | Full-Stack Developer & Arquitectura de Software |
-| **Anthony Alexander** | Software Developer |
-| **Joan** | Software Developer |
-| **Emanuel** | Software Developer |
-| **Alexandra Gallegos** | Software Developer |
-| **Jason** | Software Developer |
-| **Marcos Estrada** | Software Developer |
+| Integrante | Código | Rol |
+| :--- | :--- | :--- |
+| *Jordi Steven Menéndez Orellana* | 1C-26 | Sublíder y Programador |
+| *Anthony Alexander Hernández Arias* | 1C-16 | Líder y Programador |
+| *Marcos Isaías Estrada López* | 1C-07 | Diseñador |
+| *Jason Gabriel Flores Alas* | 1C-08 | Programador |
+| *Alexandra Elizabeth López Ávalos* | 1C-20 | Investigadora |
+| *Anthony Joan Méndez Pérez* | 1C-25 | Diseñador 2 |
+| *Emanuel Abraham Villegas Barrera* | 1C-41 | Analista |
 
 </div>
 
