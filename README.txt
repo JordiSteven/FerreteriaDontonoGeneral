@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="logo_FDT.svg" alt="Ferretería Don Toño Logo" width="280"/>
+  <img src="logo_FDT.PNG" alt="Ferretería Don Toño Logo" width="280"/>
 
   ### 🏗️ Plataforma Web E-Commerce con IA, Visor 3D & Simulador de Pinturas
   
