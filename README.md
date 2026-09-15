@@ -175,5 +175,5 @@ Este proyecto está distribuido bajo la licencia **MIT**. Consulta el archivo `L
 <div align="center">
 
 ***"Innovación tecnológica aplicada al comercio local salvadoreño."*** 🇸🇻💡
-
+.
 </div>
