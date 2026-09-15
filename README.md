@@ -15,7 +15,7 @@ FerreteriaDontonoGeneral
   [![Estado](https://img.shields.io/badge/Estado-Producci%C3%B3n-success?style=for-the-badge)]()
 
 </div>
-.
+
 ---
 
 ### 🌐 Demo en Vivo
