@@ -1,6 +1,6 @@
 FerreteriaDontonoGeneral
 <div align="center">
-.
+
   <img src="logo_fdt.svg" alt="Ferretería Don Toño Logo" width="280"/>
 
   # 🛠️ Ferretería Don Toño — E-Commerce & PWA
